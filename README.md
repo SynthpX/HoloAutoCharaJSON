@@ -26,3 +26,5 @@ Generating character JSON files to use on character.ai and various other objecti
 [stars-url]: https://github.com/SynthpX/HoloAutoCharaJSON/stargazers
 [issues-shield]: https://img.shields.io/github/issues/SynthpX/HoloAutoCharaJSON.svg?style=for-the-badge
 [issues-url]: https://github.com/SynthpX/HoloAutoCharaJSON/issues
+[license-shield]: https://img.shields.io/github/license/SynthpX/HoloAutoCharaJSON.svg?style=for-the-badge
+[license-url]: https://github.com/SynthpX/HoloAutoCharaJSON/blob/master/LICENSE.txt
