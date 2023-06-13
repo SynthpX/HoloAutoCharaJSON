@@ -14,7 +14,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Generating character JSON files to use on character.ai and various other objectives has proven to be quite time consuming for me. There are numerous factors that must be taken into account, and oftentimes, the output falls short of my expectations regarding the character's dialogue. While I could seek assistance from the community, I find that approach somewhat dull. Thus, I've decided to automate the process. Yes, I'm a Hololive enthusiast.
+Generating character JSON files to use on character.ai and various other objectives has proven to be quite time consuming for me. There are numerous factors that must be taken into account, and oftentimes, the output falls short of my expectations regarding the character's dialogue. While i can come back and forth to google to learn what each member of hololive personality,  I find that approach somewhat dull. Thus, I've decided to automate the process. Yes, I'm a Hololive enthusiast.
 
 
 
